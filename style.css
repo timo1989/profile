@@ -1,0 +1,114 @@
+
+body {
+  background: #485563;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, #29323c, #485563);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #29323c, #485563); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+}
+
+
+h2, h3, p {
+  font-family: 'Open Sans', sans-serif;
+  color: #33302E;
+}
+
+h2 {
+  font-size: 24px
+}
+
+h3 {
+  font-size: 22px
+}
+
+p {
+  font-size: 20px;
+  margin: 5px;
+  margin-bottom: 40px
+}
+
+i {
+  color: #33302E;
+  font-size: 16px;
+}
+
+.fab:hover {
+  opacity: 0.3;
+}
+
+li {
+  padding: 30px;
+}
+
+li a {
+  font-family: 'Catamaran', sans-serif;
+  font-size: 20px;
+  margin: 10px;
+}
+
+
+td {
+  padding: 10px;
+}
+
+td a {
+  font-family: 'Catamaran', sans-serif;
+  margin: 20px;
+}
+
+.list-inline {
+  text-align: center;
+}
+
+.list-inline li {
+  display: inline;
+}
+
+.section {
+  background-color: #FDF1E6;
+  border-radius: 3px;
+  margin: 20px 60px 30px 60px;
+  padding: 40px;
+}
+
+.img-circle {
+  border-radius: 50%
+}
+
+.text-center {
+  text-align: center;
+}
+
+.btn {
+  font-family: 'Catamaran', sans-serif;
+  font-size: 18px;
+  background-color: #4A6D9B;
+  color: white;
+  padding: 7px 10px;
+  border-radius: 10px;
+  display: block;
+  width: 150px;
+  margin: 0 auto 10px;
+}
+
+.btn:hover {
+  opacity: 0.6
+}
+
+.header {
+  color: #4A6D9B;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+/*#coinwidget {
+  min-width: 300px !important;
+  min-height: 50px !important;
+}
+*/
+
+#ending {
+  color: white;
+}
